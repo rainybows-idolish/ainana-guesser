@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7cf0eda.css",
-    "main.js": "/static/js/main.1fab6dfd.js",
-    "index.html": "/index.html",
-    "main.a7cf0eda.css.map": "/static/css/main.a7cf0eda.css.map",
-    "main.1fab6dfd.js.map": "/static/js/main.1fab6dfd.js.map"
+    "main.css": "/ainana-guesser/static/css/main.a7cf0eda.css",
+    "main.js": "/ainana-guesser/static/js/main.2c3710c4.js",
+    "index.html": "/ainana-guesser/index.html",
+    "main.a7cf0eda.css.map": "/ainana-guesser/static/css/main.a7cf0eda.css.map",
+    "main.2c3710c4.js.map": "/ainana-guesser/static/js/main.2c3710c4.js.map"
   },
   "entrypoints": [
     "static/css/main.a7cf0eda.css",
-    "static/js/main.1fab6dfd.js"
+    "static/js/main.2c3710c4.js"
   ]
 }
